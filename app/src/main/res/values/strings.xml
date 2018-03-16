@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BCB</string>
+    <string name="txtLogin">Usuario ou E-mail</string>
+    <string name="btnLogin">Acessar</string>
+    <string name="txtSenhaLogin">Senha</string>
+    <string name="btnCadastro">Cadastro</string>
+    <!-- Activity Cadastro-->
+    <string name="txtNome">Nome</string>
+    <string name="txtSobrenome">Sobrenome</string>
+    <string name="txtEmail">Email</string>
+    <string name="txtSenhaCadastro">Senha</string>
+    <string name="btnCadastrar">Cadastrar</string>
+
+
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.fatesg.bcb.HomeActivity">
+
+
+    <ListView
+        android:id="@+id/listaServicos"
+        android:layout_width="368dp"S
+        android:layout_height="430dp"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="83dp">
+
+    </ListView>
+
+    <TextView
+        android:layout_width="211dp"
+        android:layout_height="51dp"
+        android:text="@string/txtServicos"
+        tools:layout_editor_absoluteX="86dp"
+        tools:layout_editor_absoluteY="6dp" />
+</android.support.constraint.ConstraintLayout>
